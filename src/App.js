@@ -22,6 +22,6 @@ function App() {
         </button>
       </div>
     </div>
-  );
+  )p
 };
 export default App;
