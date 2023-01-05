@@ -23,5 +23,5 @@ function App() {
       </div>
     </div>
   )p
-};
+}
 export default App;
