@@ -9,7 +9,7 @@ button {
   display: inline-block;
   text-decoration: none;
   border: 0px;
-  cursor: pointer
+  cursor: pointer;
 }
 .green {
   background-color: rgb(6, 172, 0);
